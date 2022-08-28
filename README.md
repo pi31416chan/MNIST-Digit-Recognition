@@ -12,9 +12,14 @@ Fit with 5000 samples of data for training.
   * Support Vector Machine
   * Naive Bayes
 
+
 [***MNIST Digits Classifier.ipynb***]\
 Another retry on KNN algorithm, fit with full set of data 60000 samples for training.
 
+[***MNIST Digits MLP.ipynb***]\
+Another revisit to this problem with MLP model.\
+<img src="Images/MNIST_Digits_MLP_Architecture_best.png" alt="drawing" width="400"/>
+
 ## Conclusion
-The trained KNN model has highest accuracy among all ML models with 98.0% accuracy.\
+The trained KNN model and the MLP model have highest accuracy among all ML models with both over 98.0% accuracy.\
 This has also proven that over-fitting of model can be avoided if dataset for training is large.
